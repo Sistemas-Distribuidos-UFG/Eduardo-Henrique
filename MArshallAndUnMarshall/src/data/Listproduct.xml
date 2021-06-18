@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product>
+        <datecreationlaration>2021-04-23T15:22:29.362-03:00</datecreationlaration>
+        <id>faustao</id>
+        <name>222</name>
+        <price>222.0</price>
+        <quantity>23</quantity>
+    </product>
+</products>
